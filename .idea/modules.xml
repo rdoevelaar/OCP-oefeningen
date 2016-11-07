@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/H11-Generics-Collections/H11-Generics-Collections.iml" filepath="$PROJECT_DIR$/H11-Generics-Collections/H11-Generics-Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/H7-exceptions/H7-exceptions.iml" filepath="$PROJECT_DIR$/H7-exceptions/H7-exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H8-regex/H8-regex.iml" filepath="$PROJECT_DIR$/H8-regex/H8-regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H9-io-nio/H9-io-nio.iml" filepath="$PROJECT_DIR$/H9-io-nio/H9-io-nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/OCP-oefeningen.iml" filepath="$PROJECT_DIR$/OCP-oefeningen.iml" />
     </modules>
   </component>
